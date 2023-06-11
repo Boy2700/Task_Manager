@@ -16,12 +16,12 @@ The task manager app will not solve the problem of suggesting activities for the
 ## Installation
 ### 1. Clone the repository
 ```bash 
-git clone https://github.com/idaraekong/Task_Manager_Cherry.git
+git clone https://github.com/Boy2700/Task_Manager.git
 ```
 
 ### 2. Navigate to the project directory
 ```bash 
-cd Task_Manager_Cherry
+cd Task_Manager
 ``` 
 
 ### 3. Install dependencies
@@ -74,7 +74,7 @@ git push origin feature/<feature-name>
 
 ## Features
 ![image](https://github.com/idaraekong/Task_Manager_Cherry/assets/9981595/1d8103a0-608c-412e-b867-25e29a1aed13)
-
+   (https://github.com/Boy2700/Task_Manager)
 - Firebase real-time database
 - Google authentication
 - React responsive UI
@@ -85,7 +85,7 @@ Cherry
 
 ## Feedback
 
-If you have any feedback, please reach out to me at idaraekong2@gmail.com
+If you have any feedback, please reach out to me at yusuf06064604@gmail.com
 
 ## Achievements
 
